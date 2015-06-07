@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedControlTest.iml" filepath="$PROJECT_DIR$/AdvancedControlTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatimepicker/datatimepicker.iml" filepath="$PROJECT_DIR$/datatimepicker/datatimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridviewtest/gridviewtest.iml" filepath="$PROJECT_DIR$/gridviewtest/gridviewtest.iml" />
+    </modules>
+  </component>
+</project>
