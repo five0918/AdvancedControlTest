@@ -16,6 +16,7 @@ import android.widget.Toast;
  */
 public class MyFragment5 extends Fragment {
 
+    private static final String code = "Thank you,Activity!";
     public MyListener listener;
 
     public interface MyListener{
@@ -31,8 +32,7 @@ public class MyFragment5 extends Fragment {
         String text = getArguments().get("name")+"";
         tv.setText(text);
         Toast.makeText(getActivity(),"成功接收到"+text,Toast.LENGTH_SHORT).show();
-        String code = "Thank you,Activity!";
-        Toast.makeText(getActivity(),"向Activity发送"+ code,Toast.LENGTH_SHORT).show();
+        Toast.makeText(getActivity(),"向Activity发送"+code,Toast.LENGTH_SHORT).show();
         listener.thank(code);
         return view;
     }
