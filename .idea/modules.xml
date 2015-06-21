@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/AdvancedControlTest.iml" filepath="$PROJECT_DIR$/AdvancedControlTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/datatimepicker/datatimepicker.iml" filepath="$PROJECT_DIR$/datatimepicker/datatimepicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gridviewtest/gridviewtest.iml" filepath="$PROJECT_DIR$/gridviewtest/gridviewtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/progressbarapplication/progressbarapplication.iml" filepath="$PROJECT_DIR$/progressbarapplication/progressbarapplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spinnertest/spinnertest.iml" filepath="$PROJECT_DIR$/spinnertest/spinnertest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webviewdemo/webviewdemo.iml" filepath="$PROJECT_DIR$/webviewdemo/webviewdemo.iml" />
-    </modules>
+    <modules />
   </component>
 </project>
